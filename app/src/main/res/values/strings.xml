@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Contador</string>
+    <string name="sumar">Sumar +1</string>
+    <string name="restar">Restar -1</string>
 </resources>
